@@ -88,7 +88,7 @@
         <div class="row justify-content-center">
             <div class="col-md-8">
                 <div class="card">
-                    <div class="card-header bg-primary text-white">
+                    <div class="card-header">
                         <h4>Tambah Kategori Baru</h4>
                     </div>
                     <div class="card-body">
